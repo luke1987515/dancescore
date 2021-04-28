@@ -19,7 +19,7 @@ Use EtherCalc make a Free and open-source online judging software.(The Skating S
 我找到 EtherCalc 一個線上的試算表工具，希望透過這個自由且開源的表格，
 在上面開發計分系統。
 
-*計分規則(The Skating System)[PDF](https://www.worlddancesport.org/Document/99473179446/The_Skating_System.pdf "The_Skating_System")
+*計分規則(The Skating System)(Rule1-11)[PDF](https://www.worlddancesport.org/Document/99473179446/The_Skating_System.pdf "The_Skating_System")
 
 # 開發方向
 - 階段一：
