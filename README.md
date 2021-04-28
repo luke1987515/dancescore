@@ -9,14 +9,14 @@ Use EtherCalc make a Free and open-source online judging software.(The Skating S
 2. Scrutelle  [網址](http://www.scrutelle.info/ "Scrutelle V9")
 3. Aspire     [網址](https://aspiresystem-tld.com/ "Aspire System")
 
-已知這些軟體，都不是開放原始碼，無法依使用環境的需要調整。
+已知這些軟體，都不是開放原始碼，無法依使用環境的需要調整。  
 既然沒有可以輪子可以用，就自己造一個輪子。 ^____^
 
-讓之後參與國標舞比賽的計分人員，可以減輕他們的壓力，節省計分團隊的軟體授權開支。
+最終目標：讓之後參與國標舞比賽的計分人員，可以減輕他們的壓力，節省計分團隊的軟體授權開支。
 
 # 概念發想
-對我來說計分人員的手動計分，就像在 Excel 表格上的進行計算。
-我找到 EtherCalc 一個線上的試算表工具，希望透過這個自由且開源的表格，
+對我來說計分人員的手動計分，就像在 Excel 表格上的進行計算。  
+我找到 EtherCalc 一個線上的試算表工具，希望透過這個自由且開源的表格，  
 在上面開發計分系統。
 
 *計分規則(The Skating System)(Rule1-11)[PDF](https://www.worlddancesport.org/Document/99473179446/The_Skating_System.pdf "The_Skating_System")
