@@ -22,11 +22,11 @@ Use EtherCalc make a Free and open-source online judging software.(The Skating S
 *計分規則(The Skating System)[PDF](https://www.worlddancesport.org/Document/99473179446/The_Skating_System.pdf "The_Skating_System")
 
 # 開發方向
-階段一：
-  最小可行系統：
-    輸入：裁判(5)、選手(12)、圈選半數選手/每一個裁判 (CSV 格式檔案)，
-    計算：Rule 1；
-    輸出：裁判圈選紀錄、入圍選手。(CSV 格式檔案)；
+- 階段一：
+  - 最小可行系統：
+    - 輸入：裁判(5)、選手(12)、圈選半數選手/每一個裁判 (CSV 格式檔案)，
+    - 計算：Rule 1；
+    - 輸出：裁判圈選紀錄、入圍選手。(CSV 格式檔案)；
 
 # ~使用者介面的開發~
 ~腳色：主辦(賽程)、裁判、選手~
