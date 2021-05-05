@@ -32,7 +32,7 @@ Use EtherCalc make a Free and open-source online judging software.(The Skating S
 ~腳色：主辦(賽程)、裁判、選手~
  
 
-# 貢獻者名單：
+# 貢獻者名單
 * ( bcy870228@gmail.com )
 * ( t27337732@gmail.com )
 * ( chen051612@gmail.com )
